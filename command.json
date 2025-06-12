@@ -1,7 +1,7 @@
 {
   "command": "create_node",
   "params": {
-    "type": "Sprite2D",
-    "name": "LiveAIControl"
+    "type": "Label",
+    "name": "HISTORIC_ACHIEVEMENT"
   }
 }
