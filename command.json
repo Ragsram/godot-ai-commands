@@ -1,7 +1,7 @@
 {
   "command": "create_node",
   "params": {
-    "type": "Sprite2D",
-    "name": "WebUITest"
+    "type": "RigidBody2D",
+    "name": "NewTest"
   }
 }
