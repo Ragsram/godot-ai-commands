@@ -1,7 +1,7 @@
 {
   "command": "create_node",
   "params": {
-    "type": "RigidBody2D",
-    "name": "NewTest"
+    "type": "CharacterBody2D",
+    "name": "FinalTest"
   }
 }
