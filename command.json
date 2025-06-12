@@ -2,6 +2,6 @@
   "command": "create_node",
   "params": {
     "type": "Sprite2D",
-    "name": "ManualTest"
+    "name": "FirstAICommand"
   }
 }
