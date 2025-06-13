@@ -1,10 +1,11 @@
 {
-  "command": "create_node",
+  "command": "create_sprite",
   "params": {
-    "type": "CollisionShape2D",
-    "name": "PlayerCollision",
-    "parent": "Player"
+    "name": "RedSquare",
+    "position": {"x": 400, "y": 200},
+    "color": {"r": 1.0, "g": 0.0, "b": 0.0, "a": 1.0},
+    "size": {"width": 50, "height": 50}
   },
-  "id": "cmd_player_collision",
-  "timestamp": "2025-06-13T10:52:00Z"
+  "id": "cmd_sprite_fixed",
+  "timestamp": "2025-06-13T10:55:00Z"
 }
