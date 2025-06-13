@@ -1,8 +1,7 @@
 {
-  "command": "create_platformer_player",
+  "command": "create_node",
   "params": {
-    "name": "TestHero",
-    "jump_strength": 500,
-    "speed": 200
+    "type": "Sprite2D",
+    "name": "TestSprite"
   }
 }
