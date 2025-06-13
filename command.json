@@ -1,10 +1,10 @@
 {
   "command": "create_collectible",
   "params": {
-    "name": "TestCoin",
-    "position": {"x": 200, "y": 200},
+    "name": "GoldenCoin",
+    "position": {"x": 300, "y": 200},
     "color": {"r": 1.0, "g": 0.8, "b": 0.0, "a": 1.0}
   },
-  "id": "cmd_test_coin_rebuild",
-  "timestamp": "2025-06-13T11:25:00Z"
+  "id": "cmd_golden_coin_live",
+  "timestamp": "2025-06-13T11:17:00Z"
 }
