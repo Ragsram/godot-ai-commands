@@ -1,8 +1,8 @@
 {
-  "command": "create_enemy_ai",
+  "command": "create_platformer_player",
   "params": {
-    "name": "SmartGoomba",
-    "patrol_distance": 150,
-    "speed": 75
+    "name": "AIHero",
+    "jump_strength": 600,
+    "speed": 300
   }
 }
