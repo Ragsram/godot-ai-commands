@@ -1,7 +1,7 @@
 {
   "command": "create_node",
   "params": {
-    "type": "Sprite2D",
-    "name": "TestSprite2"
+    "type": "CharacterBody2D",
+    "name": "Player"
   }
 }
