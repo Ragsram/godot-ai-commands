@@ -1,7 +1,7 @@
 {
-  "command": "create_node",
+  "command": "print_debug",
   "params": {
-    "type": "Sprite2D",
-    "name": "TestSprite"
+    "message": "Testing new command system",
+    "value": "SUCCESS!"
   }
 }
