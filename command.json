@@ -1,11 +1,10 @@
 {
-  "command": "create_sprite",
+  "command": "create_player",
   "params": {
-    "name": "GreenCircle",
-    "position": {"x": 150, "y": 100},
-    "color": {"r": 0.0, "g": 1.0, "b": 0.0, "a": 1.0},
-    "size": {"width": 60, "height": 60}
+    "name": "Hero",
+    "position": {"x": 100, "y": 300},
+    "speed": 250
   },
-  "id": "cmd_green_circle",
-  "timestamp": "2025-06-13T10:58:00Z"
+  "id": "cmd_hero_player",
+  "timestamp": "2025-06-13T11:00:00Z"
 }
