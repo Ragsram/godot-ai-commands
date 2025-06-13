@@ -1,11 +1,11 @@
 {
   "type": "ai_command",
-  "command": "create_player",
+  "command": "create_sprite", 
   "params": {
-    "name": "SuperHero",
-    "position": {"x": 200, "y": 150},
-    "speed": 300
+    "name": "TestSprite",
+    "position": {"x": 100, "y": 100},
+    "color": {"r": 1.0, "g": 0.0, "b": 0.0, "a": 1.0},
+    "size": {"width": 50, "height": 50}
   },
-  "id": "cmd_superhero_001",
-  "timestamp": "2025-06-13T10:30:00Z"
+  "id": "cmd_test_001"
 }
