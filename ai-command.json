@@ -1,0 +1,11 @@
+{
+  "type": "ai_command",
+  "command": "create_player",
+  "params": {
+    "name": "SuperHero",
+    "position": {"x": 200, "y": 150},
+    "speed": 300
+  },
+  "id": "cmd_superhero_001",
+  "timestamp": "2025-06-13T10:30:00Z"
+}
