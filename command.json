@@ -1,10 +1,10 @@
 {
   "command": "create_collectible",
   "params": {
-    "name": "BlueCoin",
-    "position": {"x": 150, "y": 300},
-    "color": {"r": 0.0, "g": 0.5, "b": 1.0, "a": 1.0}
+    "name": "RedGem",
+    "position": {"x": 400, "y": 250},
+    "color": {"r": 1.0, "g": 0.2, "b": 0.2, "a": 1.0}
   },
-  "id": "cmd_blue_coin_test",
-  "timestamp": "2025-06-13T11:18:00Z"
+  "id": "cmd_red_gem",
+  "timestamp": "2025-06-13T11:20:00Z"
 }
