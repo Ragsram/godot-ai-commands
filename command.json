@@ -1,10 +1,10 @@
 {
-  "command": "create_label",
+  "command": "create_node",
   "params": {
-    "name": "ScoreLabel",
-    "text": "Score: 0",
-    "position": {"x": 50, "y": 50}
+    "type": "CharacterBody2D",
+    "name": "ActualHero",
+    "position": {"x": 100, "y": 250}
   },
-  "id": "cmd_score_label",
-  "timestamp": "2025-06-13T11:04:00Z"
+  "id": "cmd_actual_hero",
+  "timestamp": "2025-06-13T11:10:00Z"
 }
