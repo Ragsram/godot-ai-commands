@@ -1,8 +1,8 @@
 {
   "command": "create_platformer_player",
   "params": {
-    "name": "AIHero",
-    "jump_strength": 700,
-    "speed": 350
+    "name": "TestHero",
+    "jump_strength": 500,
+    "speed": 200
   }
 }
