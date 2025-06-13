@@ -1,7 +1,10 @@
 {
-  "command": "create_node",
+  "command": "create_player",
   "params": {
-    "type": "CharacterBody2D",
-    "name": "Player"
-  }
+    "name": "SuperHero",
+    "position": {"x": 200, "y": 150},
+    "speed": 300
+  },
+  "id": "cmd_superhero_live",
+  "timestamp": "2025-06-13T10:47:00Z"
 }
