@@ -1,10 +1,10 @@
 {
   "command": "create_node",
   "params": {
-    "type": "Sprite2D",
-    "name": "TestSprite",
-    "position": {"x": 300, "y": 200}
+    "type": "CharacterBody2D",
+    "name": "Player",
+    "position": {"x": 200, "y": 300}
   },
-  "id": "cmd_basic_test",
-  "timestamp": "2025-06-13T10:49:00Z"
+  "id": "cmd_player_body",
+  "timestamp": "2025-06-13T10:50:00Z"
 }
