@@ -1,11 +1,10 @@
 {
-  "command": "create_sprite",
+  "command": "create_node",
   "params": {
-    "name": "RedSquare",
-    "position": {"x": 200, "y": 150},
-    "color": {"r": 1.0, "g": 0.0, "b": 0.0, "a": 1.0},
-    "size": {"width": 50, "height": 50}
+    "type": "Sprite2D",
+    "name": "TestSprite",
+    "position": {"x": 300, "y": 200}
   },
-  "id": "cmd_sprite_test",
-  "timestamp": "2025-06-13T10:48:00Z"
+  "id": "cmd_basic_test",
+  "timestamp": "2025-06-13T10:49:00Z"
 }
