@@ -1,7 +1,7 @@
 {
-  "command": "print_debug",
+  "command": "create_node",
   "params": {
-    "message": "FRESH COMMAND TEST",
-    "value": "WORKING!"
+    "type": "Sprite2D", 
+    "name": "DirectAICommand"
   }
 }
