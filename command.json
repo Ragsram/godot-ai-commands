@@ -1,10 +1,10 @@
 {
   "command": "create_node",
   "params": {
-    "type": "CharacterBody2D",
-    "name": "Player",
-    "position": {"x": 200, "y": 300}
+    "type": "CollisionShape2D",
+    "name": "PlayerCollision",
+    "parent": "Player"
   },
-  "id": "cmd_player_body",
-  "timestamp": "2025-06-13T10:50:00Z"
+  "id": "cmd_player_collision",
+  "timestamp": "2025-06-13T10:52:00Z"
 }
