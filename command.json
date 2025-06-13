@@ -1,10 +1,10 @@
 {
   "command": "create_node",
   "params": {
-    "type": "CollisionShape2D",
-    "name": "PlatformCollision",
-    "parent": "GroundPlatform"
+    "type": "CharacterBody2D",
+    "name": "EnemyGoblin",
+    "position": {"x": 500, "y": 300}
   },
-  "id": "cmd_platform_collision",
-  "timestamp": "2025-06-13T11:15:00Z"
+  "id": "cmd_enemy_goblin",
+  "timestamp": "2025-06-13T11:16:00Z"
 }
