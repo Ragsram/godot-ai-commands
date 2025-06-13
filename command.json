@@ -1,7 +1,7 @@
 {
   "command": "print_debug",
   "params": {
-    "message": "Testing new command system",
-    "value": "SUCCESS!"
+    "message": "AI SYSTEM TEST",
+    "value": "WORKING PERFECTLY!"
   }
 }
