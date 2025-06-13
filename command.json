@@ -1,10 +1,10 @@
 {
   "command": "create_node",
   "params": {
-    "type": "CharacterBody2D",
-    "name": "ActualHero",
-    "position": {"x": 100, "y": 250}
+    "type": "Sprite2D",
+    "name": "HeroSprite",
+    "parent": "ActualHero"
   },
-  "id": "cmd_actual_hero",
-  "timestamp": "2025-06-13T11:10:00Z"
+  "id": "cmd_hero_sprite",
+  "timestamp": "2025-06-13T11:12:00Z"
 }
