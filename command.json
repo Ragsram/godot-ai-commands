@@ -1,10 +1,10 @@
 {
-  "command": "create_player",
+  "command": "create_enemy",
   "params": {
-    "name": "Hero",
-    "position": {"x": 100, "y": 300},
-    "speed": 250
+    "name": "Goblin",
+    "position": {"x": 500, "y": 300},
+    "color": {"r": 1.0, "g": 0.0, "b": 0.0, "a": 1.0}
   },
-  "id": "cmd_hero_player",
-  "timestamp": "2025-06-13T11:00:00Z"
+  "id": "cmd_goblin_enemy",
+  "timestamp": "2025-06-13T11:01:00Z"
 }
