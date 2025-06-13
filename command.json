@@ -1,10 +1,10 @@
 {
-  "command": "create_collectible",
+  "command": "create_label",
   "params": {
-    "name": "GoldCoin",
-    "position": {"x": 250, "y": 350},
-    "color": {"r": 1.0, "g": 0.8, "b": 0.0, "a": 1.0}
+    "name": "ScoreLabel",
+    "text": "Score: 0",
+    "position": {"x": 50, "y": 50}
   },
-  "id": "cmd_gold_coin",
-  "timestamp": "2025-06-13T11:03:00Z"
+  "id": "cmd_score_label",
+  "timestamp": "2025-06-13T11:04:00Z"
 }
