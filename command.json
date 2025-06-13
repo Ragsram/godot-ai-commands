@@ -1,7 +1,8 @@
 {
-  "command": "create_node",
+  "command": "create_platformer_player",
   "params": {
-    "type": "Sprite2D", 
-    "name": "DirectAICommand"
+    "name": "AIHero",
+    "jump_strength": 600,
+    "speed": 300
   }
 }
