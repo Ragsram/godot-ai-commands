@@ -1,7 +1,8 @@
 {
-  "command": "print_debug",
+  "command": "create_platformer_player",
   "params": {
-    "message": "COMPREHENSIVE SYSTEM TEST",
-    "value": "SUCCESS!"
+    "name": "AIHero",
+    "jump_strength": 600,
+    "speed": 300
   }
 }
