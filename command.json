@@ -1,7 +1,7 @@
 {
-  "command": "create_node", 
+  "command": "print_debug",
   "params": {
-    "type": "Sprite2D",
-    "name": "AITestNode"
+    "message": "FRESH COMMAND TEST",
+    "value": "WORKING!"
   }
 }
