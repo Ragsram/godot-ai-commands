@@ -1,11 +1,10 @@
 {
-  "command": "create_platform",
+  "command": "create_collectible",
   "params": {
-    "name": "GroundPlatform",
-    "position": {"x": 300, "y": 400},
-    "size": {"width": 600, "height": 40},
-    "color": {"r": 0.4, "g": 0.3, "b": 0.2, "a": 1.0}
+    "name": "GoldCoin",
+    "position": {"x": 250, "y": 350},
+    "color": {"r": 1.0, "g": 0.8, "b": 0.0, "a": 1.0}
   },
-  "id": "cmd_ground_platform",
-  "timestamp": "2025-06-13T11:02:00Z"
+  "id": "cmd_gold_coin",
+  "timestamp": "2025-06-13T11:03:00Z"
 }
