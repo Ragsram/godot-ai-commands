@@ -1,10 +1,10 @@
 {
   "command": "create_node",
   "params": {
-    "type": "Sprite2D",
-    "name": "HeroSprite",
+    "type": "CollisionShape2D",
+    "name": "HeroCollision",
     "parent": "ActualHero"
   },
-  "id": "cmd_hero_sprite",
-  "timestamp": "2025-06-13T11:12:00Z"
+  "id": "cmd_hero_collision",
+  "timestamp": "2025-06-13T11:13:00Z"
 }
