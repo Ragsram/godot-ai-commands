@@ -1,10 +1,10 @@
 {
   "command": "create_node",
   "params": {
-    "type": "StaticBody2D",
-    "name": "GroundPlatform",
-    "position": {"x": 300, "y": 400}
+    "type": "CollisionShape2D",
+    "name": "PlatformCollision",
+    "parent": "GroundPlatform"
   },
-  "id": "cmd_ground_platform",
-  "timestamp": "2025-06-13T11:14:00Z"
+  "id": "cmd_platform_collision",
+  "timestamp": "2025-06-13T11:15:00Z"
 }
