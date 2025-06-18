@@ -1,0 +1,10 @@
+{
+  "command": "create_node",
+  "params": {
+    "type": "Sprite2D", 
+    "name": "GitHubMCPSuccess",
+    "position": {"x": 400, "y": 250}
+  },
+  "id": "cmd_github_mcp_test_2025",
+  "timestamp": "2025-06-18T14:10:00Z"
+}
